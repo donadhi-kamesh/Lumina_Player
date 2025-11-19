@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Player",
+  "description": "A professional online video player with touch gestures, keyboard shortcuts, and metadata integration.",
+  "requestFramePermissions": []
+}
